@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=weeklyChart
+comment1.params=applicationTitle\ chartTitle\ w\ factor
+comment1.target=weeklyChart(java.lang.String,\ java.lang.String,\ int[],\ int)
+comment2.params=w1\ f
+comment2.target=org.jfree.data.category.DefaultCategoryDataset\ createDataset(int[],\ int)
+numComments=3

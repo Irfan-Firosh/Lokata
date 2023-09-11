@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=perWeek1
+comment1.params=applicationTitle\ chartTitle\ waste
+comment1.target=perWeek1(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=waste
+comment2.target=org.jfree.data.category.DefaultCategoryDataset\ createDataset(java.lang.String)
+numComments=3
